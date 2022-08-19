@@ -28,7 +28,7 @@ I have trained a model, please click the link to get
 ## Prepare Your Data
 1. Please obtain[ Weizmann horse dataset](https://www.kaggle.com/datasets/ztaihong/weizmann-horse-database/metadata )
 2. This dataset contains 327 pictures of horses and 327 pictures of masks
-3. I divided the data set into 85% training set and 15% test set.I divided the data set into 85% training set and 15% test set. You can change the ratio of the training set and the test set through the ratio in the **predict.py**
+3. I divided the data set into **85% training set and 15% test set**. You can change the ratio of the training set and the test set through the ratio in the **predict.py**
 4. The final path structure used in my code looks like this:
     ```
     $root/
