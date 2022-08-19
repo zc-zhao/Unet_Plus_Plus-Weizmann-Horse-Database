@@ -5,7 +5,7 @@
 UNET + + is used as the semantic segmentation of medical images. In this task, semantic segmentation is performed on Weizmann-Horse dataset, and Miou and BIOU are obtained
 
 
-UNet++：[UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation](https://ieeexplore-ieee-org-s.lib.hust.edu.cn/document/8932614 )
+UNet++：[UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation](https://ieeexplore.ieee.org/abstract/document/8932614 )
 
 ***
 
